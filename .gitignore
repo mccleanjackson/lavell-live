@@ -1,0 +1,9 @@
+# Only the published site goes in the repo
+*
+!.gitignore
+!index.html
+!README.md
+!BYU Logo.png
+!Big 12 Logo.png
+!ctc-bg.jpeg
+!screenshot.jpg
